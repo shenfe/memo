@@ -2,6 +2,14 @@
 
 > Memo client
 
+## User Guide
+
+* 左侧边栏：可筛选、排序的keyword视图
+    * keyword视图：平铺列表/树状结构
+* 主体部分：可筛选、排序的post列表
+* 弹层：会话栈
+    * 会话：阅读/编辑/新建一个post
+
 ## Build Setup
 
 ``` bash
