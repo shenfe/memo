@@ -1,1 +1,2 @@
-# memo
+# mnist-play
+
